@@ -15,6 +15,8 @@ collected for for every brand & model of strings added to the database as they a
 recording multiple life cycles for the strings the program will predict the life of the strings
 as they are used and indocate when the user may want to change them. 
 
+Project presentation:  https://www.youtube.com/watch?v=rLpZYFyrKwk
+
 I. Initial Run:
 ----------------
 When the app is first installed and run on an Android device the user must first create and
